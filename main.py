@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 # doc file
-data = pd.read_csv(r'D:\duancoban\MLbase\weather_forecast_data.csv')
+data = pd.read_csv('weather_forecast_data.csv')
 # print(data.head())
 # data.info()
 
