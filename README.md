@@ -1,1 +1,1 @@
-Dự đoán ngày tiếp theo mưa hay ko mưa
+Ứng dụng mô hình Logistic để dự đoán xem có mưa hay không
